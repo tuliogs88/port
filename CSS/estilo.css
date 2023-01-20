@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(65.00deg, #302e2e 65.61%, #000000 36.62%);
+    color: #faedb5;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav{
+    display: flex;
+    gap: 25px;
+}
+
+a{
+    font-size: 20px;
+    font-weight: 300;
+    color:#aa8800;
+}
+
+main{
+    margin-bottom: 40px;
+    border-top: 0.3px solid #faedb5;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+footer{
+    border-top: 0.3px solid;
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
