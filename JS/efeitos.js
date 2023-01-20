@@ -1,24 +1,24 @@
 function projetoJava(){
     newWindow = window.open('','Projeto',"width=640 height=480");
-    newWindow.document.write("<img src='projeto_java.png'>");
+    newWindow.document.write("<img src='img/projeto_java.png'>");
 }
 
 function projetoAgenda(){
     newWindow = window.open('','Projeto',"width=640 height=480");
-    newWindow.document.write("<img src='Agenda.png'>");
+    newWindow.document.write("<img src='img/Agenda.png'>");
 }
 
 function projetoStudio(){
     newWindow = window.open('','Projeto',"width=640 height=480");
-    newWindow.document.write("<img src='projeto_Studio.png'>");
+    newWindow.document.write("<img src='img/Projeto_Studio.jpg'>");
 }
 
 function projetoPrimeiroSite(){
     newWindow = window.open('','Projeto',"width=640 height=480");
-    newWindow.document.write("<img src='projeto_Vale_Silicio.png'>");
+    newWindow.document.write("<img src='img/projeto_Vale_Silicio.png'>");
 }
 
 function projetoApp(){
     newWindow = window.open('','Projeto',"width=270 height=474");
-    newWindow.document.write("<img src='Tela.png'>");
+    newWindow.document.write("<img src='img/Tela.png'>");
 }
